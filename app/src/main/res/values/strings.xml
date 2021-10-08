@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ejerfragment3</string>
+    <string name="tvPersona">Seleccione Tipo Persona</string>
+    <string name="rb1">Persona Natural</string>
+    <string name="rb2">Empresa</string>
+    <string name="tvTitulo">Datos Profesional</string>
+    <string name="edtNombres">Ingrese Nombre</string>
+    <string name="edtApePate">Ingrese Apellido Paterno</string>
+    <string name="edtApeMate">Ingrese Apellido Materno</string>
+    <string name="edtRazonSocial">Ingrese Razon Social</string>
+    <string name="rbfem">Sexo Femenino</string>
+    <string name="rbmasc">Sexo Masculino</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
